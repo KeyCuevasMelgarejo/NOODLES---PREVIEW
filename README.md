@@ -1,3 +1,7 @@
+```bash
+# El repositorio, junto a este archivo, es sólo muestra. 
+# Todo el código y el repositorio original estan en privado.
+```
 # Noodles - Descripción del Proyecto
 **La aplicación corresponde a los siguientes requerimientos**
 - Trabajo en tiempo real usando Web Sockets.
